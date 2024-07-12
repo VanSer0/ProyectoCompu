@@ -3,13 +3,12 @@
 ## Tema: MODELO DE ISING CUÁNTICO UNIDIMENSIONAL EN UNA GRILLA DE N ESPINES: DINÁMICA DE MUCHOS CUERPOS
 
 ## Integrantes: 
-Andrés Díaz Pereira C02637 
+C02637 Andrés Díaz Pereira 
 
-Felipe Mata Mata C24634
+C24634 Felipe Mata Mata
 
 C05127 Julyana Mora García
 
 890465 Patricio Becerra Barrios
 
 C27118 Sebastián José Salazar Chaves
-
